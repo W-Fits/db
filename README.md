@@ -1,21 +1,15 @@
-# Organisation Repository Setup Guide
+# Database
 
-This repository serves as a template for setting up repositories within our organisation. It includes standard configurations, licensing, contribution guidelines, and documentation structure.
+This is the physical implementation of our PSQL database used at wfits.
 
-## Structure
-```
-├── .vscode/
-│   ├── settings.json  # Editor settings
-├── docs/              # Documentation folder
-    ├── DOCS.md
-├── .gitignore         # https://github.com/github/gitignore
-├── LICENSE            # Organisation MIT License
-├── CONTRIBUTING.md    # Contribution guidelines
-├── README.md          # Project overview
-```
+## Documentation
 
-Each new repository should follow this structure.
+Visit [link](https://link-to-docs.com) to view the documentation online or open [docs.md](/docs/DOCS.md).
 
-Each repo **MUST** include the organisations [MIT LICENSE](/LICENSE) and [CONTRIBUTING.md](/CONTRIBUTING.md). 
+## Contributing
 
-Use this [link](https://github.com/github/gitignore) to create a `.gitignore` specific to the language of the project.
+Please read the [contribution guide](/CONTRIBUTING.md)
+
+## License
+
+Licensed under the  [MIT license](/LICENSE).
